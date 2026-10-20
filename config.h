@@ -5,6 +5,6 @@
 // intrarea analogică a senzorului
 #define SAMPLE_PERIOD_MS 1000
 // perioada de eșantionare (ms)
-#define SERIAL_BAUD 115200
+#define SERIAL_BAUD 19200
 // viteza portului serial
 #endif
